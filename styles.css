@@ -1,0 +1,46 @@
+* {
+    font-family: Poppins;
+}
+
+.kickstarter-header {
+    text-align: center;
+    font-size: 1.3rem;
+    margin-top: 30px;
+    background: #14abf3;
+    padding: 10px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #ffffff;
+    letter-spacing: 2px;
+}
+
+.kickstarter-table-container {
+    text-align: center;
+    margin-top: 24px;
+}
+
+.spinner-border {
+    margin: 0 auto;
+    display: block;
+    margin-top: 25px;
+}   
+
+.kickstarter-table {
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 2px solid #f1f1f1;;
+    padding: 15px 40px;
+    text-align: center;
+}
+
+thead.kickstarter-table-header {
+    background-color: #16abf3;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-weight: 500;
+}
